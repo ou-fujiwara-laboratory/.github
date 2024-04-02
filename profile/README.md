@@ -5,8 +5,8 @@
 
 ## 研究室関係者向けのドキュメント
 
-* [一般的なTips](https://github.com/fseclab-osaka/tips_pub)
-* [藤原研固有のTips (private)](https://github.com/fseclab-osaka/tips_priv)
+* [一般的なTips](https://github.com/ou-fujiwara-laboratory/tips_pub)
+* [藤原研固有のTips (private)](https://github.com/ou-fujiwara-laboratory/tips_priv)
 
 ## 研究・大会に用いたソースコード
 
