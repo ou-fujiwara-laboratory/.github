@@ -14,3 +14,7 @@
 * [MWS Cup 2022 事前課題](https://github.com/fseclab-osaka/MWS2022_public)
 * [MWS Cup 2023 事前課題](https://github.com/fseclab-osaka/mwscup2023)
 * [PWS Cup 2023](https://github.com/fseclab-osaka/pwscup2023-public)
+
+## 過去のリポジトリ
+
+その他の2023年度以前に作られたリポジトリは[こちらのアカウント](https://github.com/fseclab-osaka)に置いてあります。
